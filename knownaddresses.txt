@@ -1,0 +1,4 @@
+Google google.com
+LoLEUW 104.160.141.3
+DiscordServer eu-central663.discord.gg
+HomeRouter 192.168.1.254
